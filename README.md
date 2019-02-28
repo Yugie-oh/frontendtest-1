@@ -1,8 +1,8 @@
 ### Resource
 
-* [random user](https//randomuser.me/) - API!
-* [example](./example)
-* [styles](./styles)
+* [random user api](https://randomuser.me/)
+* [example](./example) - provided visual example
+* [styles](./styles) - provided css
 * [randomuser.png](./randomuser.png) - Final product
 * [github page](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 

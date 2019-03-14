@@ -7,8 +7,8 @@
 * [github page](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
 ### Criteria:
-* Use the randomuser.png as an example for how the final product should look like, 
-* Use the random me api to randomly fetch users.
+* Use the randomuser.png as an example for how the final product should look like
+* Use the random user api to randomly fetch users.
 * View example folder to view a basic example of how to use the styles we provided in styles folder.
 
 ### Bonus points:
